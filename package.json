@@ -2,15 +2,16 @@
   "name": "tech-store",
   "version": "0.1.0",
   "private": true,
-  "engines":{
-    "node":"10.15.0",
-    "npm":"5.7.1"
+  "engines": {
+    "node": "10.15.0",
+    "npm": "5.7.1"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
+    "contentful": "^7.14.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.9.0",
